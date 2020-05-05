@@ -1,2 +1,2 @@
 # example-sign-up-web
-Responsive webpage with a button and sign up capability. Built using bootstrap and Mail Chimp. 
+Created for the [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) Course
